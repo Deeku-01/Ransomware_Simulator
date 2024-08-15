@@ -17,7 +17,9 @@ exclusions = [
     r"D:\Cyber\Malware\Ransomware_Simulator\Ransim\script.py",
     r"D:\Cyber\Malware\Ransomware_Simulator\Ransim\descript.py",
     r"D:\Cyber\Malware\Ransomware_Simulator\Ransim\requirements.txt",
-    r"D:\Cyber\Malware\Ransomware_Simulator\Ransim\ransomware_config.json"
+    r"D:\Cyber\Malware\Ransomware_Simulator\Ransim\ransomware_config.json",
+    r"D:\Cyber\Malware\Ransomware_Simulator\Ransim\draftjson.json",
+    r"D:\Cyber\Malware\Ransomware_Simulator\Ransim\key_hiding.py",
 ]
 
 # Function to list all files in a directory, excluding specific files
