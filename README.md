@@ -18,26 +18,65 @@
 
 The simulator currently includes the following ransomware variants:
 
-1.**Play**
-2**Black Basta**
-3**Bianlian**
-4**Cerber**
-5**Conti**
-6**PYSA**
-7**REvil**
-8**MAZE**
-9**Lockbit**
-10**WANNACRY**
-11**Karakurt**
-12**Royal**
-13**Avaddon**
-14**Bad Rabbit**
-15**CLOP**
-16**HIVE**
-17**DOPPELPAYMER**
-18**EGREGOR**
-19**BLACKCAT**
-20**CRYPTOLOCKER**
+1. **Play**
+   - Simulates the Play ransomware's full and partial encryption techniques.
+
+2. **Black Basta**
+   - Implements Black Basta's encryption methods and key exfiltration techniques.
+
+3. **Bianlian**
+   - Mimics Bianlian ransomware with its unique encryption and behavior patterns.
+
+4. **Cerber**
+   - Replicates Cerber ransomware's encryption process and file extension changes.
+
+5. **Conti**
+   - Simulates Conti ransomware's advanced encryption methods.
+
+6. **PYSA**
+   - Implements PYSA ransomware's data encryption and key management techniques.
+
+7. **REvil**
+   - Mimics REvil ransomware with its highly effective encryption process.
+
+8. **MAZE**
+   - Simulates MAZE ransomware’s dual encryption techniques.
+
+9. **Lockbit**
+   - Implements Lockbit ransomware’s fast and efficient encryption methods.
+
+10. **WANNACRY**
+    - Replicates WANNACRY ransomware’s encryption and propagation techniques.
+
+11. **Karakurt**
+    - Simulates Karakurt ransomware with its encryption and exfiltration methods.
+
+12. **Royal**
+    - Implements Royal ransomware’s advanced encryption and key handling.
+
+13. **Avaddon**
+    - Mimics Avaddon ransomware’s encryption strategies and behavior.
+
+14. **Bad Rabbit**
+    - Simulates Bad Rabbit ransomware’s unique encryption and distribution methods.
+
+15. **CLOP**
+    - Implements CLOP ransomware’s encryption techniques and file manipulation.
+
+16. **HIVE**
+    - Mimics HIVE ransomware with its sophisticated encryption processes.
+
+17. **DOPPELPAYMER**
+    - Simulates DOPPELPAYMER ransomware’s encryption and ransom note generation.
+
+18. **EGREGOR**
+    - Implements EGREGOR ransomware’s rapid encryption techniques.
+
+19. **BLACKCAT**
+    - Replicates BLACKCAT ransomware’s modern encryption and behavior.
+
+20. **CRYPTOLOCKER**
+    - Simulates CRYPTOLOCKER ransomware’s encryption and key management.
 
 ## Installation
 
